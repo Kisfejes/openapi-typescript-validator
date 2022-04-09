@@ -1,6 +1,6 @@
 {
-  "name": "openapi-typescript-validator",
-  "version": "3.2.0",
+  "name": "openapi-typescript-validator-ext-ref",
+  "version": "3.2.0-external-ref-support",
   "description": "Generate typescript with ajv validation based on openapi schemas",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -29,9 +29,9 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Q42/openapi-typescript-validator.git"
+    "url": "git+github.com/Kisfejes/openapi-typescript-validator.git"
   },
-  "homepage": "https://github.com/Q42/openapi-typescript-validator",
+  "homepage": "https://github.com/Kisfejes/openapi-typescript-validator",
   "peerDependencies": {
     "ajv": "^8.0.0",
     "ajv-formats": "^2.0.0"
